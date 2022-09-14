@@ -18,3 +18,7 @@ food_costs.shift
 # unshift method will prepend an element to array
 # vet_appointments.unshift(false) will add bool false to index 0 of array
 vet_appointments.unshift(false)
+
+# index positions start at 0 in an array and count upwards
+# e.g. index 3 of the original variable dog_names is "Delta"
+# index 0 of the original variable dog_names is "Sampson"
