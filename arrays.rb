@@ -22,3 +22,7 @@ vet_appointments.unshift(false)
 # index positions start at 0 in an array and count upwards
 # e.g. index 3 of the original variable dog_names is "Delta"
 # index 0 of the original variable dog_names is "Sampson"
+
+# the reverse! method reverses the array
+# e.g. the dog_ages array would become [12, 3, 10, 6, 5]
+dog_ages.reverse!
